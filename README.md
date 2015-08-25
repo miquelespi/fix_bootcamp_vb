@@ -5,6 +5,7 @@ All credits of this piece of code go to https://truongtx.me/2013/07/11/virtualbo
 This is fix to autmate the process of setting the access permissions to the bootcamp partition in OS X and allow virtualbox to run it anytime.
 
 Setup:
+
 1. Add execution privileges to the shell script 
 ```
 $ chmod +x fix-virtualbox.sh
